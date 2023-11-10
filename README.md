@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, My name is Mozes Aung👋
+
+I am a student at Mount Royal University in my 3rd year for the Bachelors Of Computer Information Systems program. 
 
 <!--
 **Mozesmyint/Mozesmyint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
