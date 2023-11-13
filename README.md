@@ -1,6 +1,10 @@
 ### Hi there, My name is Mozes Aung👋
 
-I am a student at Mount Royal University in my 3rd year for the Bachelors Of Computer Information Systems program. 
+I am a student at Mount Royal University in my 3rd year for the Bachelors Of Computer Information Systems program. My time at MRU has been what I can best describe as an adventure and a thirst for knowledge for any and every avenue of learning. This platform serves as a repository for my academic and personal projects, reflecting my journey in the world of technology.
+
+My education thus far has given me the skills to tackle any challenge using the knowledge I have learned during my academic studies. I am committed to learning as much as I can and applying my now and future skills to furthering my thirst of knowledge. I'm looking foward to using my knowledge in a collaborative environment and growing as a person through the many endeavours awaiting.
+
+Apart from programming, my interests include gaming and reading, which complement my technical pursuits. My goal is to leverage my growing skill set in technology to give back to the community that has been instrumental in my development. I am enthusiastic about collaborating on projects that are not only challenging but also serve a greater purpose.
 
 <!--
 **Mozesmyint/Mozesmyint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
