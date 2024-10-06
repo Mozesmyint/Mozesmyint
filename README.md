@@ -1,6 +1,6 @@
 ### Hi there, My name is Mozes Aung👋
 
-I am a student at Mount Royal University in my 3rd year for the Bachelors Of Computer Information Systems program. My time at MRU has been what I can best describe as an adventure and a thirst for knowledge for any and every avenue of learning. This platform serves as a repository for my academic and personal projects, reflecting my journey in the world of technology.
+I am a student at Mount Royal University in my 4th year for the Bachelors Of Computer Information Systems program. My time at MRU has been what I can best describe as an adventure and a thirst for knowledge for any and every avenue of learning. This platform serves as a repository for my academic and personal projects, reflecting my journey in the world of technology.
 
 My education thus far has given me the skills to tackle any challenge using the knowledge I have learned during my academic studies. I am committed to learning as much as I can and applying my now and future skills to furthering my thirst of knowledge. I'm looking foward to using my knowledge in a collaborative environment and growing as a person through the many endeavours awaiting.
 
